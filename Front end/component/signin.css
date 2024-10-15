@@ -1,0 +1,14 @@
+/* src/components/signin.css */
+
+.custom-width {
+    width: 300px; /* Set your desired width here */
+    margin: auto; /* Center the form control */
+}
+.form-container {
+    border: 1px solid #ddd; /* Light gray border */
+    border-radius: 8px; /* Rounded corners */
+    padding: 20px; /* Padding inside the box */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+    background-color: #fff; /* White background */
+  }
+  
